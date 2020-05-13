@@ -15,5 +15,13 @@
   "main": "index.js",
   "keywords": [
     "eslint"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akagire/eslint-plugin-use-optional-annotation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Akagire/eslint-plugin-use-optional-annotation/issues"
+  },
+  "homepage": "https://github.com/Akagire/eslint-plugin-use-optional-annotation#readme"
 }
