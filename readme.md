@@ -20,12 +20,9 @@ https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguid
 
 # Installation
 
-Hard coding to `devDependencies` in `package.json` until register npm.
-
-```package.json
-"devDependencies": {
-  "eslint-plugin-use-optional-annotation": "git@github.com:pcae/eslint-plugin-use-optional-annotation.git"
-}
+```
+yarn add -D eslint-plugin-use-optional-annotation
+# or npm i -D eslint-plugin-use-optional-annotation
 ```
 
 # Configuration

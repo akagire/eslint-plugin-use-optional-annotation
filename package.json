@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-pcae-typescript",
+  "name": "eslint-plugin-use-optional-annotation",
   "version": "1.0.0",
   "description": "Disallow `undefined` for keeping structure.",
   "scripts": {
