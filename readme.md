@@ -11,10 +11,10 @@ const foo = { x: 123, y: undefined };
 The following will all be correct usage:
 
 ```typescript
-const foo: { x: number, y?: number } = { x:123 };
+const foo: { x: number, y?: number } = { x: 123 };
 ```
 
-We made it to keep this TyleScript styleguide's `null-vs-undefined`.
+We made it to keep this TypeScript styleguide's `null-vs-undefined`.
 
 https://github.com/basarat/typescript-book/blob/master/docs/styleguide/styleguide.md#null-vs-undefined
 
