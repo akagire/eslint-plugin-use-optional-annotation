@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-use-optional-annotation",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Disallow `undefined` for keeping structure.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
